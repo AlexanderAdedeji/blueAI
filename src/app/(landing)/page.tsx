@@ -2,7 +2,7 @@ import { defaultConfig } from "next/dist/server/config-shared";
 import Image from "next/image";
 
 const LandingPage = () => {
-  return <main>Hello WOlrd </main>;
+  return <main>Landing Page(Unprotected)</main>;
 };
 
 export default LandingPage;
