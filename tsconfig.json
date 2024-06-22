@@ -32,7 +32,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts"
-, "src/components/ui/custom/nav-bar/side-bar"  ],
+, "src/components/custom/side-bar"  ],
   "exclude": [
     "node_modules"
   ]
